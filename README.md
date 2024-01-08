@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **melisasever2000@gmail.com**
 
-- ⚡ Fun fact ** I am a fan of Marvel and have watched every movie, series, and spin-off in the franchise. My favorite character is Loki.**
+- ⚡ Fun fact **I am a fan of Marvel and have watched every movie, series, and spin-off in the franchise. My favorite character is Loki.**
 
 
 <h3 align="left">Connect with me:</h3>
