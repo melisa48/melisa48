@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Melisa Sever</h1>
-<h3 align="center">A passionate software engineer from United States</h3>
+<h3 align="center">A Passionate Software Engineer from United States</h3>
 <img align = "right" alt = "Coding" width ="200" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif"> 
 
 
