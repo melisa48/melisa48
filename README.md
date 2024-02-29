@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisa48&label=Profile%20views&color=0e75b6&style=flat" alt="melisa48" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Langchain**
 
 - 📫 How to reach me **melisasever2000@gmail.com**
 
