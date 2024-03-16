@@ -1,4 +1,4 @@
-![MasterHead](https://www.wallpaperup.com/uploads/wallpapers/2014/09/26/456762/a7789aae63c28dedfa7130fb585f5eb7.jpg)
+![MasterHead](https://incubator.ucf.edu/what-is-artificial-intelligence-ai-and-why-people-should-learn-about-it/)
 
 
 <h1 align="center">Hi 👋, I'm Melisa Sever</h1>
