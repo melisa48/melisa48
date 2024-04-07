@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisa48&label=Profile%20views&color=0e75b6&style=flat" alt="melisa48" /> </p>
 
-- 🔭 I’m currently working on **Gemini Quizify**
+- 🔭 I’m currently working on **Firebase-frontend**
 
-- 🌱 I’m currently learning **Langchain,and ChromaDB**
+- 🌱 I’m currently learning **Angular and Firebase**
 
 - 📫 How to reach me **melisasever2000@gmail.com**
 
