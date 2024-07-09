@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisa48&label=Profile%20views&color=0e75b6&style=flat" alt="melisa48" /> </p>
 
-- 🔭 I’m currently working on **Voice Assistant**
+- 🔭 I’m currently working on **Customer Chatbot Service**
 
-- 🌱 I’m currently learning **I'm currently focusing on advancing my Java skills. While I already have a good grasp of the language, I'm diving deeper into its advanced concepts and exploring more complex topics to enhance my proficiency.**
+- 🌱 I’m currently learning **I’m continuously exploring new skills and technologies. Right now I'm focusing on AI and using Python, Java, and C++.**
 
 - 📫 How to reach me **melisasever2000@gmail.com**
 
