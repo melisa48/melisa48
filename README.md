@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisa48&label=Profile%20views&color=0e75b6&style=flat" alt="melisa48" /> </p>
 
-- 🔭 I’m currently working on **Customer Chatbot Service**
+- 🔭 I’m currently working on **Phishing Email Detection System**
 
 - 🌱 I’m currently learning **I’m continuously exploring new skills and technologies. Right now I'm focusing on AI and using Python, Java, and C++.**
 
