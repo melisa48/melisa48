@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Melisa Sever</h1>
-<h3 align="center">A Passionate Software Engineer from United States</h3>
+<h3 align="center">Software Engineer and Generative AI Engineer from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisa48&label=Profile%20views&color=0e75b6&style=flat" alt="melisa48" /> </p>
 
-- 🔭 I’m currently working on **Virtual Language Tutor**
+- 🔭 I’m currently working on **AI-Matchmaker**
 
-- 🌱 I’m currently learning **AI tools,Python,Java,C++**
+- 🌱 I’m currently learning **Machine Learning, Generative AI Engineering, and Advanced Data Analysis**
 
 - 📫 How to reach me **melisasever2000@gmail.com**
 
