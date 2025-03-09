@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisa48&label=Profile%20views&color=0e75b6&style=flat" alt="melisa48" /> </p>
 
-- 🔭 I’m currently working on **Smart Home Assistant Ecosystem**
+- 🔭 I’m currently working on **AI-Powered Collaborative Learning Platform**
 
 - 🌱 I’m currently learning **Machine Learning, Generative AI Engineering, and Advanced Data Analysis**
 
